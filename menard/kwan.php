@@ -640,7 +640,7 @@
                             </svg>
                         </div>
                         <div class="contact-text">
-                            <h3>Bulacan Office:</h3>
+                            <h3>Pangalan ni lord 123456 :</h3>
                             <p>Cruz St. corner. Bantayan St.</p>
                             <p>Matungao Bulakan Bulacan</p>
                         </div>
